@@ -3,7 +3,7 @@
    ============================================ */
 
 const API = 'https://breezy-api-r7jg.onrender.com';
-const CLOUDINARY_CLOUD   = 'don9ua5xz';       // ← replace
+const CLOUDINARY_CLOUD   = 'YOUR_CLOUD_NAME';       // ← replace
 const CLOUDINARY_PRESET  = 'arrive_units';
 const CLOUDINARY_FOLDER  = 'raymells';
 
